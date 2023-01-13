@@ -12,8 +12,8 @@ Used Tools
 
 Database Configuration in Spring Boot
 ---
-# Change database connection config in
-     : src/main/resources/application.properties
+ Change database connection config in
+      src/main/resources/application.properties
    * spring.datasource.url=jdbc:mysql://localhost/cmsshoppingcart
    * spring.datasource.username=root
    * spring.datasource.password=
